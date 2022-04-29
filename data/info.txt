@@ -1,0 +1,2 @@
+This data is downloaded from https://arxiv.org/abs/1710.06071 paper.
+original data repo is https://github.com/Franck-Dernoncourt/pubmed-rct
